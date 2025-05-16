@@ -1,10 +1,10 @@
-# M-SHOP - 虚拟商品销售系统｜卡密系统｜知识付费｜内容分发 🚀
+# M-SHOP - 虚拟商品销售系统｜卡密系统｜私域变现｜知识付费 🚀
 
 [![M-SHOP Banner](https://img.shields.io/badge/M--SHOP-%E8%87%AA%E5%8A%A8%E5%8F%91%E8%B4%A7%E5%95%86%E5%9F%8E-blue?style=for-the-badge&logo=shopping-cart)](https://mshop.mornlong.com/)
 
 **厌倦了手动处理订单和发送卡密？渴望拥有一个高效、稳定、同时又让客户购买体验极简顺畅的在线自动化销售渠道？**
 
-M-SHOP 是一款专为 **内容创作者、开发者、知识付费博主、资源站长** 以及任何需要在线销售 **虚拟商品、软件授权、激活码、教程、服务** 的个人或团队精心打造的自动化发货商城系统。它致力于简化您的销售流程，提升客户体验，让您专注于创造价值，而非繁琐的发货工作！
+M-SHOP 是一款专为 **内容创作者、开发者、网红主播博主、资源站长** 以及任何需要在线销售 **虚拟商品、软件授权、激活码、教程、服务** 的个人或团队精心打造的自动化发货商城系统。它致力于简化您的销售流程，提升客户体验，让您专注于创造价值，而非繁琐的发货工作！
 
 <p align="center">
   <img src="https://mornlong.oss-cn-beijing.aliyuncs.com/M-SHOP/mshop_logo_index.png" alt="M-Shop Logo">
